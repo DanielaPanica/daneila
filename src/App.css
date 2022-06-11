@@ -1,0 +1,16 @@
+.container {
+  width: 100hw;
+  display: grid;
+  justify-content: center;
+}
+
+.item {
+  width: 750px;
+}
+
+#title {
+  text-align: center;
+}
+ol {
+  padding: 0;
+}
